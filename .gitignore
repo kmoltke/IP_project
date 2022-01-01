@@ -8,9 +8,6 @@ config.txt
 ### IntelliJ
 .idea
 
-### Data files 
-data/
-
 ### Java ###
 # Compiled class file
 *.class
